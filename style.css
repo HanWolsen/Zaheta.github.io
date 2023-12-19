@@ -1,0 +1,238 @@
+html
+{
+    scroll-behavior: smooth;
+}
+#wrapper
+{
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    width: 100%;
+}
+.logo
+{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    line-height: 100px;
+    font-size: 24px;
+    margin-right: 750px; 
+}
+.salke 
+{
+    color: black;
+    text-decoration: underline 3px; 
+}
+.tot
+{
+    display: flex;
+    text-align: right;
+    margin-right: 25px;
+    font-size: 25px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    scroll-behavior: smooth;
+}
+.tot :hover
+{
+    color: rgb(114, 114, 114);
+    text-decoration: underline 3px; 
+    display: flex;
+    text-align: right;
+    font-size: 25px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    scroll-behavior: smooth;
+}
+header, main, footer 
+{
+    width: 1340px;
+    margin: 0 auto;
+}
+.line
+{
+    width: 1340px;
+    border-top: 3px solid #797979;
+}
+.pop
+{
+    flex-grow: 1;
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+}
+.foto
+{
+    margin-top: 50px;
+    width: 1340px;
+}
+.left
+{
+    width: 640px;
+    border-top: 3px solid #000000;
+    margin: 150px 20px;
+}
+#rabota
+{
+    font-size: 30px;
+    margin-top: 130px;
+    font-weight: bold;
+}
+.right
+{
+    width: 640px;
+    border-top: 3px solid #000000;
+    margin: 150px 20px;
+}
+.hapka
+{
+    margin-top: 100px;
+    height: 300px;
+    display: flex;
+    background-color: #D9D9D9;
+}
+h2
+{
+   margin: 100px 50px 10px;
+   font-size: 50px;
+}
+.visitka
+{
+    border: 2px solid black;
+}
+.vis-text
+{
+    font-size: 30px;
+    margin-top: 20px;
+}
+.img_left
+{
+    margin-left: 50px;
+    margin-right: 100px;
+    height: 609px;
+    width: 426px;
+}
+.img_right
+{
+    margin-left: 100px;
+    margin-right: 70px;
+    height: 609px;
+    width: 426px;
+}
+.obrahane
+{
+    display: flex;
+    margin-top: 100px;
+}
+.form_item
+{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.form_name
+{
+    text-align: center;
+}
+#name1
+{
+    height: 20px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: #e4e4e4;
+}
+#name2
+{
+    height: 20px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: #e4e4e4;
+}
+#name3
+{
+    height: 20px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: #e4e4e4;
+}
+#name4
+{
+    height: 120px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: #e4e4e4;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+#contact-form input[type="submit"] 
+{
+    height: 30px;
+    width: 205px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: black solid 1px;
+    background-color: #e4e4e4;
+    text-transform: uppercase;
+    font-size: 15px;
+    border-radius: 20px;
+}
+#contact-form input[type="submit"]:hover
+{
+    height: 30px;
+    width: 205px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: white solid 1px;
+    background-color: #949494;
+    text-transform: uppercase;
+    font-size: 15px;
+    border-radius: 20px;
+}
+.forma
+{
+    margin-top: 80px;
+}
+.pol
+{
+    width: 1340px;
+    border-top: 3px solid #797979;
+}
+.pol1
+{
+    display: flex;
+}
+#kontacte
+{
+    font-size: 30px;
+    margin-top: 130px;
+    font-weight: bold; 
+}
+.oto
+{
+    margin: 10px;
+}
+.slova
+{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 333px;
+    margin-top: 35px;
+}  
+.protop1
+{
+    margin-top: 20px;
+    margin-left: 360px;
+    width: 50px;
+}
+.protop2
+{
+    margin-left: 5px;
+    width: 50px;
+}
